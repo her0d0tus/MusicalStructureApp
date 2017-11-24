@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+
+    <string name="library">Library</string>
+    <string name="now_playing">Now Playing</string>
+    
+    <!-- Songs -->
+    <string name="song_1_name">Symphony No. 5: I</string>
+    <string name="song_1_artist">Beethoven</string>
+
+    <string name="song_2_name">1812 Overture</string>
+    <string name="song_2_artist">Tchaikovsky</string>
+
+    <string name="song_3_name">Eine Kleine Nachtmusik: Allegro</string>
+    <string name="song_3_artist">Mozart</string>
+    
+    <string name="song_4_name">Toccata And Fugue In D Minor</string>
+    <string name="song_4_artist">Bach</string>
+
+    <string name="song_5_name">William Tell Overture</string>
+    <string name="song_5_artist">Rossini</string>
+</resources>
